@@ -55,7 +55,7 @@ prometheus-client==0.5.0
 prompt-toolkit==2.0.7
 protobuf==3.6.1
 ptyprocess==0.6.0
-Pygments==2.3.1
+Pygments==2.7.4
 pymongo==3.7.2
 python-dateutil==2.7.5
 -e git+https://github.com/cmeister747/pytorch-pretrained-BERT@8dd9a617b895ebe3db777d0b536d534af846835a#egg=pytorch_pretrained_bert
